@@ -1,0 +1,7 @@
+{
+  "name": "noukentosh/commonphp",
+  "description": "CommonJS for PHP",
+  "require": {
+    "php": "^7.0"
+  }
+}
